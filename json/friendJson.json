@@ -1,0 +1,22 @@
+[
+	{
+		"net_name":"成风",
+		"signature":"浮生若梦",
+		"pixmap":":/image/111.webp"
+	},
+	{
+		"net_name":"墨影",
+		"signature":"上善若水",
+		"pixmap":":/image/222.webp"
+	},
+	{
+		"net_name":"苍松",
+		"signature":"天道酬勤",
+		"pixmap":":/image/333.webp"
+	},
+	{
+		"net_name":"顽石",
+		"signature":"莫问归期",
+		"pixmap":":/image/444.webp"
+	}
+]

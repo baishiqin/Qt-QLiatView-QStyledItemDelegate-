@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/111.webp</file>
+        <file>image/222.webp</file>
+        <file>image/333.webp</file>
+        <file>image/444.webp</file>
+        <file>json/friendJson.json</file>
+    </qresource>
+</RCC>
